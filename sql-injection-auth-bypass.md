@@ -1,3 +1,5 @@
+> Successfully exploited SQL Injection vulnerability to bypass authentication and gain unauthorized access to user accounts.
+
 # 🔓 SQL Injection Attack – Authentication Bypass & Data Extraction
 
 ---
