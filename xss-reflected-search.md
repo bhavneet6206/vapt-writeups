@@ -27,6 +27,6 @@ The application reflects user input directly into the HTML response without prop
 <img src=x onerror=alert('XSS')>
 <svg onload=alert('XSS')>
 
-**Proof of Exploit**
+## **Proof of Exploit**
 
 <img width="1643" height="647" alt="Screenshot 2026-03-24 143436" src="https://github.com/user-attachments/assets/880af3c9-ba91-4540-b793-66ffba0fbe3c" />
